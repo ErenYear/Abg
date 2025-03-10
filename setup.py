@@ -22,7 +22,7 @@ with open("README.md", encoding="utf8") as readme:
 setup(
     name="Abg",
     version=about["__version__"],
-    author="Eren Yeager",
+    author="Lund Yeager",
     author_email="<abishnoi69@outlook.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
